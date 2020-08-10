@@ -1,7 +1,7 @@
 # Portfolio
 
 ### LINK TO SITE:
-### https://davidjono1985.github.io/Portfolio/
+### https://davidjono1985.github.io/david_portfolio/
 
 ### GITHUB:
 #### https://github.com/davidjono1985/Portfolio
